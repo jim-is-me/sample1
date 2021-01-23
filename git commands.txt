@@ -20,6 +20,7 @@ git clone https://github.com/jim-is-me/sample1.git
 5. enter username and password
 
 extra command:
+---------------
 
     git status
 
