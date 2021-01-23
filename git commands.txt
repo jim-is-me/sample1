@@ -1,0 +1,22 @@
+
+
+
+1. clone a repo:
+
+git clone https://github.com/jim-is-me/sample1.git
+
+
+2. set user details:
+
+ git config user.name "jim-is-me"
+ git config user.email "justhunt111@gmail.com"
+
+3. add a file
+
+4. push file in git
+
+    git add --all
+    git commit -m "<some message>"
+    git push
+
+5. enter username and password
