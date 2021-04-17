@@ -24,3 +24,5 @@ extra command:
 
     git status
 
+get new changes:
+----------------
